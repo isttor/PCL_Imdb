@@ -1,0 +1,4 @@
+pcl_imdb.Droid.MainActivity, pcl_imdb.Android;md5776b188a2725483728d850a194544905.MainActivity
+pcl_imdb.Droid.MainActivity, pcl_imdb.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5776b188a2725483728d850a194544905.MainActivity
+pcl_imdb.Droid.MainActivity;md5776b188a2725483728d850a194544905.MainActivity
+pcl_imdb.droid.MainActivity;md5776b188a2725483728d850a194544905.MainActivity

@@ -1,1 +1,1 @@
-<resources><string name="hello">Hello World, Click Me!</string><string name="app_name">pcl_imdb.Android</string></resources>
+<resources><string name="hello">Hello World, Click Me!</string><string name="app_name">OMDb movies</string><string name="search">Search for movie...</string></resources>

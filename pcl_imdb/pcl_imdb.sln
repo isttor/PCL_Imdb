@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pcl_imdb.Android", "pcl_imd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pcl_imdb", "pcl_imdb\pcl_imdb\pcl_imdb.csproj", "{3BAF36BC-C09B-42AC-8C5F-C18457938712}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "Playground\Playground.csproj", "{00333BD5-5A06-48F1-8C52-6E24CA502113}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,18 @@ Global
 		{3BAF36BC-C09B-42AC-8C5F-C18457938712}.Release|iPhone.Build.0 = Release|Any CPU
 		{3BAF36BC-C09B-42AC-8C5F-C18457938712}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{3BAF36BC-C09B-42AC-8C5F-C18457938712}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Release|iPhone.Build.0 = Release|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{00333BD5-5A06-48F1-8C52-6E24CA502113}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
